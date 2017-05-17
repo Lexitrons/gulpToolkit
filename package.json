@@ -1,0 +1,15 @@
+{
+  "name": "gulp-toolkit",
+  "version": "1.0.0",
+  "description": "Testing gulp tasks and interesting setups",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-watch": "^4.3.11"
+  }
+}
